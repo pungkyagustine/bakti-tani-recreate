@@ -1,0 +1,23 @@
+section, footer {
+	padding: 20px 0;
+}
+
+.brand-logo img{
+	padding-top: 15px;
+}
+
+
+.slider h5,
+.sider h6 {
+	padding-top: 100px;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.slider h5{
+	text-transform: uppercase;
+}
+
+.produk h5, .galeri h5, .kontak h5{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
